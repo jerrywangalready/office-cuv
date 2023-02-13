@@ -55,7 +55,7 @@ const menus = reactive({
 
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 .train-menu-box {
   //position: absolute;
   //top: 0;

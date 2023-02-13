@@ -38,7 +38,7 @@ const toHomePage = () => {
 
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 
 .tagline {
   font-size: 76px;

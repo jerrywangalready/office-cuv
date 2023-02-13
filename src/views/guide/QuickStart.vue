@@ -41,7 +41,7 @@ const clickHandler = (data: androidDownloadOptionsType) => {
 
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 .my-download-button {
 
   button {

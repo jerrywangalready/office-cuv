@@ -8,9 +8,14 @@ export {}
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     AButton: typeof import('ant-design-vue/es')['Button']
+    AForm: typeof import('ant-design-vue/es')['Form']
+    AFormItem: typeof import('ant-design-vue/es')['FormItem']
+    AInput: typeof import('ant-design-vue/es')['Input']
     AStep: typeof import('ant-design-vue/es')['Step']
     ASteps: typeof import('ant-design-vue/es')['Steps']
+    ButtonBar: typeof import('./src/components/bar/ButtonBar.vue')['default']
     CustomBlock: typeof import('./src/components/CustomBlock.vue')['default']
+    FlexBox: typeof import('./src/components/box/FlexBox.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     MyCode: typeof import('./src/components/MyCode.vue')['default']
     MyDoc: typeof import('./src/components/MyDoc.vue')['default']

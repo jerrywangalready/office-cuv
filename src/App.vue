@@ -48,7 +48,7 @@ onMounted(() => {
 })
 </script>
 
-<style lang="scss">
+<style lang="less">
 /*.logo {*/
 /*  height: 6em;*/
 /*  padding: 1.5em;*/
