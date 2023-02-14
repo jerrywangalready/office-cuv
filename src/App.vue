@@ -10,7 +10,7 @@
             :ellipsis="false"
         >
           <el-menu-item index="0">
-            <h2>移动应用开发管理平台</h2>
+            <h2>计划统计</h2>
             <!--              <img width="136" src="https://www.tencent.com/img/index/menu_logo_hover.png" alt="logo" />-->
           </el-menu-item>
           <div class="flex-grow" />

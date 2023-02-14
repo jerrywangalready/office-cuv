@@ -4,9 +4,8 @@
       <div>
         <section id="hero">
           <h1 class="tagline">
-            <span class="accent">移动应用</span>
+            <span class="accent">计划统计</span>
             <br>
-            开发管理平台
           </h1>
           <p class="description">指南、避坑、辅助</p>
           <p>

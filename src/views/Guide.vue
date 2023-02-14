@@ -70,6 +70,6 @@ const menus = reactive({
 .content-box {
   padding: 64px 64px 96px;
   background: #ffffff;
-  width: 800px;
+  //width: 800px;
 }
 </style>
